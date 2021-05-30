@@ -36,7 +36,7 @@
     "react-dom": "^16.8.4",
     "uuid": "^3.3.2",
     "webpack": "^4.23.1",
-    "ws": "^6.1.0"
+    "ws": "^7.4.6"
   },
   "peerDependencies": {
     "babel-loader": "^7.0.0 || ^8.0.0"
